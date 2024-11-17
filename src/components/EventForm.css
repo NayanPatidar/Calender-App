@@ -21,3 +21,8 @@
     background-color: #218838;
   }
   
+  .ImpNotification {
+    margin-top: 10px;
+    color: red;
+    font-weight: bold;
+  }
